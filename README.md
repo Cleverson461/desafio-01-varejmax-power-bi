@@ -73,4 +73,4 @@ Durante o desenvolvimento, pratiquei:
 
 Projeto desenvolvido por **Cleverson Nascimento** como parte da minha jornada de formação em Análise de Dados.
 
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/cleverson-nascimento/) | [GitHub](https://github.com/Cleverson461)
